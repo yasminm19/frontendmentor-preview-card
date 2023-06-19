@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Preview]([https://your-solution-url.com](https://yasminm19.github.io/frontendmentor-preview-card/))
+- Solution URL: [Preview](https://yasminm19.github.io/frontendmentor-preview-card/)
 
 ### Built with
 
